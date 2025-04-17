@@ -11,7 +11,7 @@ import skillsImg7 from './assets/mongodb.svg';
 import skillsImg8 from './assets/springBoot.svg';
 import skillsImg9 from './assets/python.svg';
 import skillsImg10 from './assets/machine-learning.svg';
-import skillsImg11 from './assets/pandas.svg';
+import skillsImg11 from './assets/Pandas.svg';
 import skillsImg12 from './assets/scikit-learn.svg';
 import skillsImg13 from './assets/tensorflow.svg';
 import skillsImg14 from './assets/power-bi.svg';
